@@ -1,0 +1,12 @@
+{
+  "name": "socialHound",
+  "displayName": "socialHound",
+  "expo": {
+    "name": "socialHound",
+    "slug": "socialHound",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
